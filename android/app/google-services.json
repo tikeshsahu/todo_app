@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "680744552039",
+    "project_id": "my-sasta-todo",
+    "storage_bucket": "my-sasta-todo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:680744552039:android:c2741b0610b266b755b6c2",
+        "android_client_info": {
+          "package_name": "com.example.sasta_todo_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "680744552039-6iin4rr2hd377j1oftdb05n8ehm3s2cl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2a8NRhJwXa-jeL8HdRMBF7W-_aCpqvKs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "680744552039-6iin4rr2hd377j1oftdb05n8ehm3s2cl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
